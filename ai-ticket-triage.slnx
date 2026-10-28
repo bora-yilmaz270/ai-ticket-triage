@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Triage.Api/Triage.Api.csproj" />
+  <Project Path="Triage.Core/Triage.Core.csproj" />
+  <Project Path="Triage.SmokeTests/Triage.SmokeTests.csproj" />
+</Solution>
